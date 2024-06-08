@@ -1,0 +1,12 @@
+body{
+    text-align:center;
+    background-color:blueviolet;
+    color:azure;
+}
+p{
+    background-color: rgb(65, 20, 20);
+}
+h1{
+    display: inline-block;
+    font-family:monospace;
+}
